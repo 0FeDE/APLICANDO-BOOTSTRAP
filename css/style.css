@@ -69,6 +69,12 @@ p{
     font-size: 1.6rem;
 }
 
+a{
+    color: dimgray;
+    line-height: 2rem;
+    font-size: 1.6rem;
+}
+
 section p{
     font-size: 2rem;
     line-height: 2.2rem;
