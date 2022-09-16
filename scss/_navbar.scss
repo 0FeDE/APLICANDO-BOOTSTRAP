@@ -1,0 +1,27 @@
+#botonera img{
+    width: 150px;
+}
+
+    #botonera svg{
+        fill:$verde;
+    }
+
+    #botonera ul li a{
+		color: $negro;
+        font-size: $h4;
+        font-weight: bold;
+        text-decoration: underline;
+	}
+
+		#botonera ul li a:hover{
+			color: $blanco;
+		}
+
+		
+		#botonera ul li a:visited{
+			color: $azul;
+		}
+		
+		#botonera ul li a:active{
+			color: $rojo;
+		}

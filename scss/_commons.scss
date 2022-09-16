@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: $font-family;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+    font-family: $font-family;
+}
+
+body{
+    background-image: url(../img/bubble\ square.webp);
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+.anuncio{
+    color: $gris;
+    font-size: $h4;
+    padding: 4px 0;
+}

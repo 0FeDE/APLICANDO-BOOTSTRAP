@@ -107,11 +107,11 @@ section p{
 			color: rgb(255, 255, 255);
 		}
 
-		/* visitied */
+		
 		#botonera ul li a:visited{
 			color: rgb(20, 43, 255);
 		}
-		/* active */
+		
 		#botonera ul li a:active{
 			color: rgb(226, 21, 6);
 		}    
@@ -211,9 +211,6 @@ img.izquierda {
     float: right;
   }
 
-#encabezado img{
-    object-fit: cover;
-}
 
 .contacto {
     background-color: #0212eb;
@@ -226,3 +223,4 @@ img.izquierda {
 .precio img:hover{
     border: 5px solid #c0ad06;
 }
+
